@@ -1,0 +1,28 @@
+Antes de tudo, é válido avaliar o contexto da pesquisa. Qual o terma abordado e qual o periódico que mais se aplica ao tema apresentado no artigo. Há diversas ferramentas que podem auxiliar o pesquisador no momento de decidir a qual periódico submeter seu artigo, como, por exemplo, a função Manuscript Matcher do Clarivate, que nos permite colar o título do artigo e apresentar periódicos e revistas que podem ter uma chance maior de aceitar o estudo apresentado. Já a ferramenta Jane nos permite colar o abstract/resumo e obter as revistas mais adequadas para o seu estudo. O Trinka funciona de forma similar ao Jane, entretanto, por ser uma ferramenta que trabalha com Inteligência Artificial, existe uma limitação no número de vezes que a ferramenta pode ser utilizada de forma gratuita.
+
+Revista Predatória: São periódicos cujo objetivo principal é tão somente arrecadar recursos financeiros.
+
+. Tempo de publicação incompatível com uma revista de qualidade;
+. Processo de avaliação simplificado;
+. Variações de nomes de periódicos científicos de prestígio;
+. Indexação de indicadores duvidosos.
+
+Ferramentas para identificação de revistas predatórias: Beall's list, Think Check Submit, Preda Qualis, SciRev.
+
+A plataforma periodicos.capes nos permite, por meio do acesso CAFe, libera o acesso a uma base de dados que armazena diversos trabalhos acadêmicos científicos. É uma plataforma que pode ser acessada pelo gov.br
+
+Qualis CAPES é um dos instrumentos para a qualificação indireta da produção intelectual na forma de artigos científicos a partir da análise da qualidade dos veículos de divulgação, ou seja, dos periódicos. Esse Qualis era feito por uma organização em que os periódicos eram qualificados e ranqueados em percentis. As classificações iam de A1 a B4 (A1, A2, A3, A4, B1, B2, B3, B4), ou seja, os percentis escalavam em 12,5% por classificação Qualis. Nesse quadriênio, as classificações vão de MB a I (MB [Muito bom], B[Bom], R[Regular], F[Fraco], I[Insuficiente]).
+
+SciVal: É uma ferramenta analítica que fornece acesso ao desempenho científico de diversas instituições. Ferramenta extremamente útil para realizar diversas análises sobre o âmbito científico e acadêmico das instituições.
+
+ORCID: permite que as contribuições de cada um sejam adequadamente rastreadas e devidamente atribuídas para cada autor. Possibilita recuperação efetiva de informações, citações, internacionalmente. É um indicador persistente que previne possíveis enganos sobre citações. 
+
+Web of Science: Plataforma que possibilita a recuperação de seus trabalhos acadêmicos por meio do seu ORCID
+
+Índice H: índice que mede a produtividade dos pesquisadores. Esse índice aponta quantas vezes um pesquisador foi citado nos últimos 5 anos.
+
+ABDC Journal Quality List: é uma lista curada e ranqueada de publicações acadêmicas em negócios e gestão. Os periódicos organizados em quatro níveis principais: A*, A, B e C. Os níveis A* e A indicam periódicos com qualidade substancial.
+
+ABS List: o ranqueamento é feito nos níveis 1,2 , 3, 4 e 4*.
+
+JCR: Conjunto de indicadores que a Web of Science nos fornece.
